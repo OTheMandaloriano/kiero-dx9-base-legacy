@@ -1,0 +1,42 @@
+# Visual Studio e Compilação
+.vs/
+bin/
+obj/
+build/
+Release/
+Debug/
+x64/
+Win32/
+
+# Arquivos intermediários de build
+*.user
+*.aps
+*.pch
+*.ipch
+*.log
+*.tlog
+*.idb
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.recipe
+
+# Logs e arquivos de runtime locais
+debug_log.txt
+debug_log.bak
+logs/
+imgui.ini
+
+# Dumps e binários pesados de RE
+dump/**/*.exe
+dump/**/*.dll
+dump/**/*.dmp
+dump/**/*.mdmp
+dump/**/*.bin
+dump/**/*.raw
+
+# Arquivos temporários do SO
+Thumbs.db
+Desktop.ini
