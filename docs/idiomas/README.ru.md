@@ -94,16 +94,25 @@ MSBuild kiero-dx9-base.vcxproj /p:Configuration=Release /p:Platform=x64 /t:Rebui
 
 ---
 
-## <h2><img src="https://api.iconify.design/solar/user-bold.svg?color=%233B82F6&width=24" align="top" /> &nbsp;Автор</h2>
+## <h2><img src="https://api.iconify.design/solar/user-bold.svg?color=%233B82F6&width=24" align="top" /> &nbsp;Благодарности и авторы</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="160">
       <a href="https://github.com/OTheMandaloriano">
         <img src="https://avatars.githubusercontent.com/u/252971432?v=4" width="100px;" alt="The Mandalorian" style="border-radius: 50%;" /><br />
         <sub><b>The Mandalorian</b></sub>
       </a><br />
-      <sub>@OTheMandaloriano</sub>
+      <sub>@OTheMandaloriano</sub><br />
+      <sub><i>Автор и мейнтейнер</i></sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/rdbo">
+        <img src="https://avatars.githubusercontent.com/u/57117082?v=4" width="100px;" alt="rdbo" style="border-radius: 50%;" /><br />
+        <sub><b>rdbo</b></sub>
+      </a><br />
+      <sub>@rdbo</sub><br />
+      <sub><i>Создатель Kiero</i></sub>
     </td>
   </tr>
 </table>
